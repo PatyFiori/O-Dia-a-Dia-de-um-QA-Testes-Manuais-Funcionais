@@ -23,3 +23,10 @@ O objetivo foi aplicar na prática as principais atividades do dia a dia de um A
 | Casos de teste | 10 casos de teste detalhados (CT-01 a CT-10) | [plano-de-testes/plano_de_testes_swag_labs.pdf](plano-de-testes/plano_de_testes_swag_labs.pdf) |
 | Testes BDD | Cenários em linguagem Gherkin | [testes/bdd.md](testes/bdd.md) |
 | Evidências | Prints dos testes executados | [evidencias/](evidencias/) |
+
+## Tecnologias e ferramentas
+
+Git e GitHub
+Markdown
+Linguagem Gherkin (BDD)
+SauceDemo (ambiente de testes)
