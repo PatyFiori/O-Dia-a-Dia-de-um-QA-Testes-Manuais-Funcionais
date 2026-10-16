@@ -35,5 +35,5 @@ O objetivo foi aplicar na prática as principais atividades do dia a dia de um A
 
 **Patrícia Simões Fiori** — QA em formação, praticando testes manuais funcionais, elaboração de plano e casos de teste, escrita de cenários BDD e registro de evidências.
 
-- LinkedIn: [linkedin.com/in/SEU-PERFIL](https://linkedin.com/in/patriciasfiori/)
+- LinkedIn: [linkedin.com/in/patriciasfiori/](https://linkedin.com/in/patriciasfiori/)
 - GitHub: [github.com/PatyFiori](https://github.com/PatyFiori)
