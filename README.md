@@ -26,7 +26,7 @@ O objetivo foi aplicar na prática as principais atividades do dia a dia de um A
 
 ## Tecnologias e ferramentas
 
-Git e GitHub
-Markdown
-Linguagem Gherkin (BDD)
-SauceDemo (ambiente de testes)
+- Git e GitHub
+- Markdown
+- Linguagem Gherkin (BDD)
+- SauceDemo (ambiente de testes)
